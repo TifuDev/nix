@@ -1,5 +1,5 @@
-# TifuFeed
-Simple Feed bot made in Python for [TiFu News](https://t.me/TiFu_News)
+# Nix
+RSS client bot to Telegram
 
 ### Developing
 
