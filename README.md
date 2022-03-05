@@ -5,7 +5,7 @@ RSS client bot to Telegram
 
 At first, you should install some development dependencies with the command:
 
-`pip install -r requirements/requirements.txt`
+`pip install -r requirements/requirements-dev.txt`
 
 Now, with the dependencies installed, it's time to add the [pre-commit hooks](https://github.com/pre-commit/pre-commit-hooks)
 
